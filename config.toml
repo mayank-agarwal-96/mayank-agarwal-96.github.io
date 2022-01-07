@@ -2,6 +2,7 @@ baseURL = 'https://mayank-agarwal-96.github.io/'
 languageCode = 'en-us'
 title = 'Mayank Agrawal'
 theme = "cactus"
+googleAnalytics = "G-NLYRFKRJF0"
 
 [[menu.main]]
 name = "Home"
