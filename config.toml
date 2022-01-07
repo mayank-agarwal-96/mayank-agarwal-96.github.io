@@ -1,0 +1,34 @@
+baseURL = 'https://mayank-agarwal-96.github.io/'
+languageCode = 'en-us'
+title = 'Mayank Agrawal'
+theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Writings"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[params]
+  colortheme = "dark" # dark, light, white, or classic
+  description = "I am Mayank, a CS graduate student at Virginia Tech."
+
+  [[params.social]]
+    name = "github"
+    link = "https://github.com/mayank-agarwal-96"
+  [[params.social]]
+    name = "linkedin"
+    link = "https://www.linkedin.com/in/mayank-agrawal-b680915a/"
+  [[params.social]]
+    name = "email"
+    link = "agarwalm214@gmail.com"
+    
